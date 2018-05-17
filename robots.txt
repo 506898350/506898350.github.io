@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /asstes/
+
+Sitemap: /https://506898350.github.io/sitemap.xml
